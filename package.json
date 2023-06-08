@@ -1,0 +1,17 @@
+{
+  "name": "prova_tecnica_qualyteam",
+  "version": "1.0.0",
+  "description": "Prova tecnica para vaga de QA na qualyteam.",
+  "scripts": {
+    "clean": "rm -rf node_modules && npm install",
+    "cy:open": "cypress open",
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "Beatriz Ferreira Franco",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "moment": "^2.29.4"
+  }
+}
