@@ -1,7 +1,6 @@
 # prova_tecnica_qualyteam
 Prova tecnica para vaga de QA na qualyteam.
 
-
 # Prova Tecnica Qualyteam
 
 Prova tecnica para vaga de QA na qualyteam.
@@ -11,7 +10,7 @@ Este projeto está utilizando cypress para automatizar o teste de login e datepi
 ## Funcionalidades
 
 - Teste de Login
-- Teste de datepicker
+- Teste de Datepicker
 
 ### Login
 
@@ -20,7 +19,6 @@ Este projeto está utilizando cypress para automatizar o teste de login e datepi
 - Teste de mensagem de erro ao informar nickname ou senha incorretos
 - Teste de login com sucesso
 - Teste de mensagem de erro ao tentar acessar URL de área logada diretamente
-
 
 ### DatePicker
 
@@ -36,4 +34,3 @@ Beatriz Franco (QA).
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
